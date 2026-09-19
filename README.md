@@ -63,3 +63,5 @@ plt.show()
 ```
 
 ## Output
+![Uploading image.png…]()
+
