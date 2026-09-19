@@ -63,5 +63,5 @@ plt.show()
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="612" height="283" alt="image" src="https://github.com/user-attachments/assets/e8292780-ecb8-4bd9-be69-e707788c5eed" />
 
