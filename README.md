@@ -1,5 +1,7 @@
 # WORKSHOP-3-Canny-Edge-Detection
-
+# Developed By
+# Name: Sairam K
+# Reg No: 212225240132
 ## Aim
 
 To detect edges in an image using the Canny Edge Detection technique.
